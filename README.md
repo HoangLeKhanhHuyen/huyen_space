@@ -1,4 +1,4 @@
-Hi everyone, these are the projects that I analyze mobile sale and Vinamilk's stock price. Please have a look and give me comments for construction! Thanks everyone!
+Hi everyone, these are the projects that I analyze mobile sale, Vinamilk's stock price, Walmart's sales. Please have a look and give me comments for construction! Thanks everyone!
 
 For the first one, I use mobile sale dataset taken from kaggle to analyze, focusing on analyzing the relationship between factors and different brands affecting mobile sales.
 

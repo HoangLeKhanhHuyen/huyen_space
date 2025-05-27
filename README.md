@@ -14,6 +14,7 @@ https://nbviewer.org/
 Or, MUCH MUCH FASTER, you can see all charts and detailed analysis (by using HTML): 
 https://raw.githack.com/HoangLeKhanhHuyen/huyen_space/refs/heads/main/Mobile%20Sales.html
 https://raw.githack.com/HoangLeKhanhHuyen/huyen_space/refs/heads/main/Vinamilk-Stock-Prediction.html
+https://rawcdn.githack.com/HoangLeKhanhHuyen/huyen_space/3203e21a1fe10fd77b259f82254b16bb4f0feff2/EDA%20Walmart%20Sales%20Analysis.html
 
 Please have a look!
 

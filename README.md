@@ -1,10 +1,12 @@
-Hi everyone, these are the projects that I analyze mobile sale, Vinamilk's stock price, Walmart's sales. Please have a look and give me comments for construction! Thanks everyone!
+Hi everyone, these are the projects that I analyze mobile sale, Vinamilk's stock price, Employee performance rating, and Walmart's sales. Please have a look and give me comments for construction! Thanks everyone!
 
 For the first one, I use mobile sale dataset taken from kaggle to analyze, focusing on analyzing the relationship between factors and different brands affecting mobile sales.
 
 For the second one, I use data of Vinamilk's stock price to make prediction of the next 6 months, using Bidirectional LSTM (detailed information is presented in the description).
 
-For the third, I use data from M5 Accuracy (Walmart) on Kaggle to focus on EDA - anlysing sales (or potentially demand) for CA_1 (one store in California), with XGBRegressor being written in the code but not yet run due to computational cost. 
+For the third one, this is my university project that I analyze employee performance rate, by conducting EDA and ML for classification. (I have incorporated the analysis report in the notebook already). 
+
+For the fourth, I use data from M5 Accuracy (Walmart) on Kaggle to focus on EDA - anlysing sales (or potentially demand) for CA_1 (one store in California), with XGBRegressor being written in the code but not yet run due to computational cost. 
 
 
 *Important note: As I use plotly to draw charts so all those charts and the analysis written in my file are 'not shown' in the ipynb files. Thus, please check this link from Jupiter Notebook to have a look with the code file and all the charts. 
